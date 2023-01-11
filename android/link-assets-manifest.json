@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Lato-Bold.ttf",
+      "sha1": "d67fee08c79a82ce375ab9629ae5a903da8bb321"
+    },
+    {
+      "path": "assets/fonts/Lato-Regular.ttf",
+      "sha1": "83dc5921761a7c3d1ee7badba3fc7e1e1f5ed803"
+    },
+    {
+      "path": "assets/bgs/background_transparent.png",
+      "sha1": "bf6dddde6d3039a5d9168f1a81f1cc81f9eae366"
+    },
+    {
+      "path": "assets/bgs/background_v1.png",
+      "sha1": "0f6ce3e439eca73d9836570515d3419a1e69be18"
+    },
+    {
+      "path": "assets/avi/avatar.png",
+      "sha1": "94edad7659ab5425722a965a5c72d294174f4247"
+    },
+    {
+      "path": "assets/cards/mc.png",
+      "sha1": "f292378096d8e6128d79377c63e1b55563570d8a"
+    },
+    {
+      "path": "assets/cards/visa_white.png",
+      "sha1": "219d021d44689117644de874156b7db9be9258cf"
+    },
+    {
+      "path": "assets/portraits/1.jpg",
+      "sha1": "a0774174e90e7da558343949a212b72e0498120b"
+    },
+    {
+      "path": "assets/portraits/2.jpg",
+      "sha1": "7d38aa710db509fb1d6ca708d3a196cba03a9a4e"
+    },
+    {
+      "path": "assets/portraits/3.jpg",
+      "sha1": "347b915696a41875bcab4f61acdae2b1d7c5e9e0"
+    }
+  ]
+}
