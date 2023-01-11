@@ -6,7 +6,7 @@ import styled from 'styled-components/native';
 import { colors } from '../components/colors';
 import { Container } from '../components/shared';
 
-import background from './../assets/bgs/background_v1.png';
+import background from '../assets/bgs/background_v1.png';
 
 import SmallText from '../components/Texts/SmallText';
 import BigText from '../components/Texts/BigText';

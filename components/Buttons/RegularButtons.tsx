@@ -9,7 +9,7 @@ import {
 
 // components
 import { colors } from '../colors';
-import RegularText from './../Texts/RegularText';
+import RegularText from '../Texts/RegularText';
 
 const ButtonView = styled.TouchableOpacity`
     alignItems: center;

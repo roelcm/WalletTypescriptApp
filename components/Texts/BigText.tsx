@@ -2,7 +2,7 @@ import React, { FunctionComponent } from 'react';
 import styled from 'styled-components/native';
 
 // colors
-import { colors } from './../colors';
+import { colors } from '../colors';
 
 const StyledText = styled.Text`
     font-size: 37px;
