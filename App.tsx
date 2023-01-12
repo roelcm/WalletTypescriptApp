@@ -9,10 +9,10 @@
  */
 
 import React from 'react';
-import Welcome from './screens/Welcome';
+import RootStack from './navigators/RootStack';
 
 export default function App() {
   return (
-    <Welcome />
+    <RootStack />
   );
 }

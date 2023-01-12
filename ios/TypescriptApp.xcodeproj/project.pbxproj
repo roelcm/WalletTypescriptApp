@@ -12,18 +12,18 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		7699B88040F8A987B510C191 /* libPods-TypescriptApp-TypescriptAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-TypescriptApp-TypescriptAppTests.a */; };
-		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		B14AEE672D4F41E59A5CAF91 /* Lato-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8A5A11B1E15443A1A792DB45 /* Lato-Bold.ttf */; };
 		16770EBA4A774EB98FB5E18C /* Lato-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 373E101680574C2B88CDAA78 /* Lato-Regular.ttf */; };
 		3C742092075D4F8F8EE22D72 /* background_transparent.png in Resources */ = {isa = PBXBuildFile; fileRef = EBAACD69B2404EE990DCE563 /* background_transparent.png */; };
-		D37BC7CCFF2B46E3850A441C /* background_v1.png in Resources */ = {isa = PBXBuildFile; fileRef = F5D857F72C734124A60946D9 /* background_v1.png */; };
 		46BF30087B5743A8BF0D9529 /* avatar.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E7A9B14BCCE46FB98289DE4 /* avatar.png */; };
-		A4788B88FBC04237B141FD4E /* mc.png in Resources */ = {isa = PBXBuildFile; fileRef = 44CA5715B3FF4E239AA658E9 /* mc.png */; };
-		919D755C8CF2484C826A8B05 /* visa_white.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C93BB34D74A4596823E3820 /* visa_white.png */; };
-		E3180743D37A41C7B78EFC56 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8DD4DC6A9D27477CB0EE207B /* 1.jpg */; };
-		9CB4FC4E81ED4069ABEB41ED /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD94E54AAE5A43BBB87B9350 /* 2.jpg */; };
+		7699B88040F8A987B510C191 /* libPods-TypescriptApp-TypescriptAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-TypescriptApp-TypescriptAppTests.a */; };
+		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		89190D2FFD024BC493EA01B5 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F19BE7205B64C5480A6C5B4 /* 3.jpg */; };
+		919D755C8CF2484C826A8B05 /* visa_white.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C93BB34D74A4596823E3820 /* visa_white.png */; };
+		9CB4FC4E81ED4069ABEB41ED /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD94E54AAE5A43BBB87B9350 /* 2.jpg */; };
+		A4788B88FBC04237B141FD4E /* mc.png in Resources */ = {isa = PBXBuildFile; fileRef = 44CA5715B3FF4E239AA658E9 /* mc.png */; };
+		B14AEE672D4F41E59A5CAF91 /* Lato-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8A5A11B1E15443A1A792DB45 /* Lato-Bold.ttf */; };
+		D37BC7CCFF2B46E3850A441C /* background_v1.png in Resources */ = {isa = PBXBuildFile; fileRef = F5D857F72C734124A60946D9 /* background_v1.png */; };
+		E3180743D37A41C7B78EFC56 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8DD4DC6A9D27477CB0EE207B /* 1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +40,7 @@
 		00E356EE1AD99517003FC87E /* TypescriptAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TypescriptAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* TypescriptAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TypescriptAppTests.m; sourceTree = "<group>"; };
+		0F19BE7205B64C5480A6C5B4 /* 3.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = 3.jpg; path = ../assets/portraits/3.jpg; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* TypescriptApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TypescriptApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = TypescriptApp/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = TypescriptApp/AppDelegate.mm; sourceTree = "<group>"; };
@@ -47,23 +48,22 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = TypescriptApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = TypescriptApp/main.m; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-TypescriptApp-TypescriptAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TypescriptApp-TypescriptAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		373E101680574C2B88CDAA78 /* Lato-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Lato-Regular.ttf"; path = "../assets/fonts/Lato-Regular.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-TypescriptApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TypescriptApp.debug.xcconfig"; path = "Target Support Files/Pods-TypescriptApp/Pods-TypescriptApp.debug.xcconfig"; sourceTree = "<group>"; };
+		44CA5715B3FF4E239AA658E9 /* mc.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = mc.png; path = ../assets/cards/mc.png; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-TypescriptApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TypescriptApp.release.xcconfig"; path = "Target Support Files/Pods-TypescriptApp/Pods-TypescriptApp.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-TypescriptApp-TypescriptAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TypescriptApp-TypescriptAppTests.debug.xcconfig"; path = "Target Support Files/Pods-TypescriptApp-TypescriptAppTests/Pods-TypescriptApp-TypescriptAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-TypescriptApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TypescriptApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7C93BB34D74A4596823E3820 /* visa_white.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = visa_white.png; path = ../assets/cards/visa_white.png; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = TypescriptApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-TypescriptApp-TypescriptAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TypescriptApp-TypescriptAppTests.release.xcconfig"; path = "Target Support Files/Pods-TypescriptApp-TypescriptAppTests/Pods-TypescriptApp-TypescriptAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		8A5A11B1E15443A1A792DB45 /* Lato-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Lato-Bold.ttf"; path = "../assets/fonts/Lato-Bold.ttf"; sourceTree = "<group>"; };
+		8DD4DC6A9D27477CB0EE207B /* 1.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = 1.jpg; path = ../assets/portraits/1.jpg; sourceTree = "<group>"; };
+		9E7A9B14BCCE46FB98289DE4 /* avatar.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = avatar.png; path = ../assets/avi/avatar.png; sourceTree = "<group>"; };
+		EBAACD69B2404EE990DCE563 /* background_transparent.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = background_transparent.png; path = ../assets/bgs/background_transparent.png; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		8A5A11B1E15443A1A792DB45 /* Lato-Bold.ttf */ = {isa = PBXFileReference; name = "Lato-Bold.ttf"; path = "../assets/fonts/Lato-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		373E101680574C2B88CDAA78 /* Lato-Regular.ttf */ = {isa = PBXFileReference; name = "Lato-Regular.ttf"; path = "../assets/fonts/Lato-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		EBAACD69B2404EE990DCE563 /* background_transparent.png */ = {isa = PBXFileReference; name = "background_transparent.png"; path = "../assets/bgs/background_transparent.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		F5D857F72C734124A60946D9 /* background_v1.png */ = {isa = PBXFileReference; name = "background_v1.png"; path = "../assets/bgs/background_v1.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		9E7A9B14BCCE46FB98289DE4 /* avatar.png */ = {isa = PBXFileReference; name = "avatar.png"; path = "../assets/avi/avatar.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		44CA5715B3FF4E239AA658E9 /* mc.png */ = {isa = PBXFileReference; name = "mc.png"; path = "../assets/cards/mc.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		7C93BB34D74A4596823E3820 /* visa_white.png */ = {isa = PBXFileReference; name = "visa_white.png"; path = "../assets/cards/visa_white.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		8DD4DC6A9D27477CB0EE207B /* 1.jpg */ = {isa = PBXFileReference; name = "1.jpg"; path = "../assets/portraits/1.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		FD94E54AAE5A43BBB87B9350 /* 2.jpg */ = {isa = PBXFileReference; name = "2.jpg"; path = "../assets/portraits/2.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		0F19BE7205B64C5480A6C5B4 /* 3.jpg */ = {isa = PBXFileReference; name = "3.jpg"; path = "../assets/portraits/3.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F5D857F72C734124A60946D9 /* background_v1.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = background_v1.png; path = ../assets/bgs/background_v1.png; sourceTree = "<group>"; };
+		FD94E54AAE5A43BBB87B9350 /* 2.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = 2.jpg; path = ../assets/portraits/2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -170,7 +170,7 @@
 			sourceTree = "<group>";
 		};
 		DBC8AB404976408E99DEB778 /* Resources */ = {
-			isa = "PBXGroup";
+			isa = PBXGroup;
 			children = (
 				8A5A11B1E15443A1A792DB45 /* Lato-Bold.ttf */,
 				373E101680574C2B88CDAA78 /* Lato-Regular.ttf */,
@@ -184,8 +184,8 @@
 				0F19BE7205B64C5480A6C5B4 /* 3.jpg */,
 			);
 			name = Resources;
-			sourceTree = "<group>";
 			path = "";
+			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
